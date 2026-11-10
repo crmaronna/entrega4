@@ -47,5 +47,5 @@ ORDER BY mes;
 
 -- El producto 2 es el que mas moviliza el stock 
 -- El producto 1 es el que mas factura
--- El cliente 5 es que mas gasta
+-- El cliente 1 es que mas gasta
 
